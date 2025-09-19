@@ -1,0 +1,9 @@
+title: "The Great Hunt Campaign Wiki"
+description: "The place where all the general info is"
+theme: minima
+plugins:
+  - jekyll-feed
+  - jekyll-sitemap
+
+# Enable search
+search_enabled: true
